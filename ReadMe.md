@@ -11,7 +11,3 @@ Hi there 👋 <br><br>I am Enes<br><br>📚 Currently studying for MS Informatio
 ![](https://github-readme-stats.vercel.app/api?username=xlash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xlash5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xlash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ionic-team/ionic-framework&type=Date)](https://star-history.com/#ionic-team/ionic-framework)
