@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 <br><br>I am Enes<br><br>📚 MS Information Systems with Computing at Dublin Business School<br>🎓 BSc Computer Engineering from Erciyes University<br><br>My main experiences are in mobile and web development.<br>I enjoy learning new technologies.<br>Trying to be getting better every day. 👀 
+Hi there 👋 <br><br>I am Enes<br><br>📚 MS Information Systems with Computing from Dublin Business School<br>🎓 BSc Computer Engineering from Erciyes University<br><br>My main experiences are in mobile and web development.<br>I enjoy learning new technologies.<br>Trying to be getting better every day. 👀 
 
 
 ## 🌐 Socials:
