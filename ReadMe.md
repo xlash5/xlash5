@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there 👋 <br><br>I am Enes<br><br>📚 MS Information Systems with Computing from Dublin Business School<br>🎓 BSc Computer Engineering from Erciyes University<br><br>
+Hi there 👋 
+<br><br>My name is Enes<br>
+Currently located in Dublin<br>
+📚 MS Information Systems with Computing from Dublin Business School<br>🎓 BSc Computer Engineering from Erciyes University<br><br>
 
 
 ## 🌐 Socials:
