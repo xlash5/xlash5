@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋 
 <br><br>My name is Enes<br>
-Currently located in Dublin<br>
+I am a software developer, currently located in Dublin<br>
 📚 MS Information Systems with Computing from Dublin Business School<br>🎓 BSc Computer Engineering from Erciyes University<br><br>
 
 
