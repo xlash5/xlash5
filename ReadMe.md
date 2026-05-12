@@ -1,6 +1,6 @@
-# Hi there ðŸ‘‹, I'm **Muhammet Enes Ilhan**
+# Hi there 👋, I'm **Muhammet Enes Ilhan**
 
-> Software Developer Â· Dublin, Ireland
+> Software Developer · Dublin, Ireland
 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menesilhan/)
 [![](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:menesilhan@gmail.com)
@@ -8,22 +8,22 @@
 
 ---
 
-### ðŸ’¼ Experience
+### 💼 Experience
 
-**Frontend Developer** Â· *MiFinity* â€” Swords, Ireland  
-`Oct 2022 â€“ Present`
+**Frontend Developer** · *MiFinity* — Swords, Ireland  
+`Oct 2022 – Present`
 
-**Mobile Developer** Â· *Tiramisu App* â€” Remote
+**Mobile Developer** · *Tiramisu App* — Remote
 
-**Mobile Developer** Â· *Butterflies Dating & Socials* â€” Sunnyvale, CA (Remote)
+**Mobile Developer** · *Butterflies Dating & Socials* — Sunnyvale, CA (Remote)
 
-**Frontend Developer Intern** Â· Consultancy Company â€” Ankara
+**Frontend Developer Intern** · Consultancy Company — Ankara
 
-**Software Developer Intern** Â· *Grumblz.com* â€” California
+**Software Developer Intern** · *Grumblz.com* — California
 
 ---
 
-### ðŸŽ“ Education
+### 🎓 Education
 
 | Degree | Institution |
 |--------|------------|
@@ -32,7 +32,7 @@
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@
 
 ---
 
-### ðŸ“Š GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=xlash5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xlash5&theme=dark&hide_border=false)
